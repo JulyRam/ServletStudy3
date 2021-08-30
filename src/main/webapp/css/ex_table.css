@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.t1{
+	width: 100px; height: 50px;
+	border: gray solid 10px;
+	align-self: auto;
+}
+
+.t2{
+	width: 150px; height: 50px;
+	border: yellow ridge 10px;
+	
+	
+}
+
+.m1{
+	background-color: red;
+}
+
+.m2{
+	background-color: green;
+}
+
+/* <옆으로 이어 붙이기, 간격 띄우기, 내부에 버튼 삽입> */
